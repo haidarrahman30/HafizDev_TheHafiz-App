@@ -10,5 +10,6 @@
 <li><a href="https://thehafiz.my.id">Masuk ke Aplikasi The Hafiz</a></li>
 <li><a href="">Design Prototype TheHafiz</a></li>
 <li><a href="">Pitch Deck TheHafiz</a></li>
+<li><a href="https://github.com/haidarrahman30/HafizDev_TheHafiz-App/tree/master">Source Code TheHafiz</a></li>
 <br><br>
 <p>Salam Kami, TheHafiz</p>
