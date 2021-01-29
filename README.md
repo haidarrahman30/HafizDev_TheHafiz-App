@@ -8,7 +8,7 @@
 <h3>How To Use TheHafiz</h3>
 
 <li><a href="https://thehafiz.my.id">Masuk ke Aplikasi The Hafiz</a></li>
-<li><a href="">Design Prototype TheHafiz</a></li>
+<li><a href="https://drive.google.com/drive/folders/1K2ezkKwb0DGMhECdQ9D9K82oU1TZ1RW-?usp=sharing">Design Prototype TheHafiz</a></li>
 <li><a href="https://github.com/haidarrahman30/HafizDev_TheHafiz-App/tree/master/PitchDeck">Pitch Deck TheHafiz</a></li>
 <li><a href="https://github.com/haidarrahman30/HafizDev_TheHafiz-App/tree/master">Source Code TheHafiz</a></li>
 <br><br>
