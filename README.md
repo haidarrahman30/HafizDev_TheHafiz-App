@@ -7,7 +7,6 @@
 
 <h3>How To Use TheHafiz</h3>
 
-<li><a href="">Video Tutorial Menggunakan TheHafiz</a></li>
 <li><a href="https://thehafiz.my.id">Masuk ke Aplikasi The Hafiz</a></li>
 <li><a href="">Design Prototype TheHafiz</a></li>
 <li><a href="">Pitch Deck TheHafiz</a></li>
