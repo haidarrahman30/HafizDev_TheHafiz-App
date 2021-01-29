@@ -1,0 +1,22 @@
+{
+    "name": "TheHafiz",
+    "short_name": "thehafiz",
+    "description": "Aplikasi Untuk Menjadi seorang hafiz",
+    "start_url": "/application/controllers/Home.php",
+    "display": "standalone",
+    "background_color": "#f0fdff",
+    "theme_color": "#f0fdff",
+    "icons": [{
+            "src": "/assets/img/icon.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/assets/img/icon.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
